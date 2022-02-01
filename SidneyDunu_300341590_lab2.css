@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+/*
+Project 1
+ 
+ Resume
+ Author: Jordan SidneyDunu
+ Date:   01/25/2021
+
+ Filename: SidneyDunu_300341590_lab2.css
+ */
+
+ html {
+     background-color: ivory;
+ }
+
+ article > p {
+    border-style: solid;
+ }
+
+ h1 {
+     text-align: left;
+    background-color: olive;
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+ }
+ h1 > p {
+     text-align: left;
+     padding: 20px;
+     background-color: orange;
+     border-style: solid;
+ }
+section {
+    border-style: solid;
+    padding: 10px;
+    border-color: brown;
+    background-color: orange;
+}
+ h2 {
+     text-align: left;
+     background-color: olive;
+     padding: 10px;
+     border-style: solid;
+     border-color: black; 
+ }
+
+ h3 {
+    text-align: left;
+    background-color: olive;
+    padding: 10px;
+    border-style: solid;
+    border-color: black; 
+ }
+
+ h4 {
+    text-align: left;
+    background-color: olive;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+ }
+
+
+ body {
+     margin-top: 20px;
+ }
+
+ body > header {
+     background-color:mistyrose;
+     margin-right: 20px;
+     padding: 10px;
+     border-style: solid;
+ }
+ body > footer {
+     font-family: 'Times New Roman', Times, serif;
+     margin-bottom: 10px;
+ }
